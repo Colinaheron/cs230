@@ -1,5 +1,6 @@
 # cs230
 Colin Aheron's CS230 repo SNHU
+
 The client for The Gaming Room wanted us to design a software application called "Draw It or Lose It." This game required effective memory and storage management, cross-platform compatibility, and security measures for protecting user information.
 
 In developing this documentation, we particularly excelled in thoroughly addressing the client's requirements and providing clear explanations of architectural considerations and approaches. We also considered the scalability, user experience, and security aspects, which are essential in modern software development.
